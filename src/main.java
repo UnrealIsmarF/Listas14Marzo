@@ -12,8 +12,7 @@ public class main {
         ListaModel ModeloLista = new ListaModel();
         ListaController ControladorLista = new ListaController(VistaListas, ModeloLista);
         
-        
-        
+              
     }
     
 }
